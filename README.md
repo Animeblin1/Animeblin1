@@ -1,3 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animeblin1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Animeblin1&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/faa5c4c9-3ba2-42ca-8e10-f47c5ef48e35.svg)](https://wakatime.com/@faa5c4c9-3ba2-42ca-8e10-f47c5ef48e35)
